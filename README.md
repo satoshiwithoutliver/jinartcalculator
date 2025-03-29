@@ -1,2 +1,0 @@
-# jinartcalculator
-jinart calculator 
